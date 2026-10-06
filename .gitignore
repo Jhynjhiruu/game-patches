@@ -1,0 +1,6 @@
+disasm/
+build/
+
+.clangd
+
+*.patch
